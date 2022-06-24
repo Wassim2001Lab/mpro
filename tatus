@@ -1,0 +1,36 @@
+[33mcommit 33f63945a4b0cfb525a218ce53811bb7a3e54300[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: c57f7bf e707aef
+Author: wassim2001lab <mohamed.labraoui@univ-constantine2.dz>
+Date:   Fri Jun 24 21:45:29 2022 +0100
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit e707aefb7a667e3d0a8621075a805c122a262665[m
+Author: wassim2001lab <mohamed.labraoui@univ-constantine2.dz>
+Date:   Fri Jun 24 21:40:48 2022 +0100
+
+    added new image
+
+[33mcommit c57f7bfadd422db69091a8c0ae30187e1b826605[m
+Author: wassim2001lab <mohamed.labraoui@univ-constantine2.dz>
+Date:   Fri Jun 24 21:31:56 2022 +0100
+
+    updated index.html with emergency fix
+
+[33mcommit 0ef35bb593eb68cf99974b51ea8e62dc2c844eef[m
+Author: wassim2001lab <mohamed.labraoui@univ-constantine2.dz>
+Date:   Fri Jun 24 21:27:41 2022 +0100
+
+    Added image to Hello World
+
+[33mcommit 46555b903edc726ec0a289b259e7c401e874fc9f[m
+Author: wassim2001lab <mohamed.labraoui@univ-constantine2.dz>
+Date:   Fri Jun 24 18:49:51 2022 +0100
+
+    Updated index.html with a new line
+
+[33mcommit 15cc5936e3fd328e7d382d02df62a5b2c61b8385[m
+Author: wassim2001lab <mohamed.labraoui@univ-constantine2.dz>
+Date:   Fri Jun 24 18:43:13 2022 +0100
+
+    First release of Hello World!
